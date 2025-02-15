@@ -19,8 +19,7 @@ app.use(cookieParser());
 app.use(express.json());
 app.use(
   cors({
-    // origin: process.env.FRONTEND_URL,
-    origin: "https://yt-mern-blog-main-u5of.vercel.app",
+    origin: process.env.FRONTEND_URL,
     credentials: true,
   })
 );
