@@ -2,6 +2,7 @@
 
 This document provides an in-depth explanation of the functionality and features of the YT-MERN-BLOG-main new project, a robust blogging platform built using the MERN stack (MongoDB, Express.js, React, Node.js). This application allows users to create, manage, and interact with blog posts, categories, and comments. It also incorporates user authentication and authorization features.
 
+
 ## I. Project Overview
 
 YT-MERN-BLOG-main new is a full-fledged blogging application designed for both users and administrators. Users can browse blog posts, read articles, leave comments, and like posts. Administrators have extended capabilities, including managing categories, users, and blog posts. The application leverages several technologies to achieve its functionality:
